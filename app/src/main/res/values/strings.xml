@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bicycle Accelerometer</string>
+    <string name="initial_velocity">0.0</string>
+    <string name="x_axis">x axis:</string>
+    <string name="y_axis">y axis:</string>
+    <string name="z_axis">z axis:</string>
+    <string name="acceleration">Acceleration</string>
+    <string name="meter_per_second">m/s</string>
+    <string name="threshold">Threshold:</string>
+    <string name="initial_threshold">1.0</string>
+    <string name="init">INIT</string>
+</resources>
